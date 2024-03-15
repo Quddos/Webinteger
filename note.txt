@@ -1,0 +1,52 @@
+notes:
+Devops: Development and Operations, is a set of practices, principles, and cultural philosophies that aim to improve collaboration, communication, and integration between software development teams (Dev) and IT operations teams (Ops). The primary goal of DevOps is to automate and streamline the process of software delivery and infrastructure changes, enabling organizations to deliver high-quality software products and services more rapidly, reliably, and efficiently.
+
+Key principles and practices of DevOps include:
+
+CI- merge, CD - update, IaC- configuration, Automate Testing - end to end
+
+
+DEVELOPER - APP >> DEPLOY >> CLOUD/INTEGRATION -> SERVER 
+
+
+dev ||| ops engineer
+
+Devops engineer
+devops developer
+Software Integration and developer
+
+DEVELOPER
+
+CI - continous integration - merge DEPLOY
+
+CD - cont Delivery - update- whatapp hidden view - update - code app laptop team
+
+challenges: IaC, Automate Testing
+win: 24$ 
+
+PATH/ROUTE
+
+DNS - domain name server - www.bdnaturetech.com | amazon.com |  - live server
+IP ADDRESS- http://127.0.0.1:5500/ - LOCAL server
+
+file format| significant unique char/text that to a particular file
+.pdf 
+.exe
+.html
+.css
+.jpeg
+Challenge- write atleast different 6 format of files in different programming language
+
+
+
+MOBILE APP: settings/configuration
+color: style . title
+
+
+
+
+
+
+
+
+
